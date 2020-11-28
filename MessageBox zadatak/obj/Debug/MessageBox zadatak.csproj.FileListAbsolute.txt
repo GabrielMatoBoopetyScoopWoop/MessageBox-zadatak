@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\bin\Debug\MessageBox zadatak.exe.config
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\bin\Debug\MessageBox zadatak.exe
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\bin\Debug\MessageBox zadatak.pdb
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox zadatak.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox_zadatak.Form1.resources
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox_zadatak.Properties.Resources.resources
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox zadatak.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox zadatak.exe
+C:\Users\Mato\source\repos\MessageBox zadatak\MessageBox zadatak\obj\Debug\MessageBox zadatak.pdb
